@@ -8,7 +8,7 @@ This is a demo app showcasing an implementation of collection view using Google 
 3) Implemented NSCache library to store Images in the local cache 
 
 <p align="center">
-<img src="https://i.imgur.com/e1ol7EJ.png" width="240" height="320">
+<img src="https://i.imgur.com/e1ol7EJ.png" width="200" height="320">
 </p>
 
 ## API Reference
