@@ -33,5 +33,6 @@ extension UIImageView {
                 self.image = UIImage(data: data)
             }
         }
+        .resume()
     }
 }
